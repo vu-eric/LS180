@@ -1,0 +1,1 @@
+This usese DML, since `DELETE` is deleting specific rows of data. 

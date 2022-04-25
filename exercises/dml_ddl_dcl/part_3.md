@@ -1,0 +1,1 @@
+Since `CREATE TABLE` is creating a table, this uses the DDL component of SQL. 

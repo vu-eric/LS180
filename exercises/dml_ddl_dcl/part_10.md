@@ -1,0 +1,1 @@
+This is DDL, since `CREATE SEQUENCE` statements modify the characteristics and attributes of a database by adding a sequence object to the database structure.

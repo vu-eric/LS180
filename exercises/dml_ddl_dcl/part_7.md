@@ -1,0 +1,1 @@
+Neither. This is part of postgreSQL, it is a meta-command.

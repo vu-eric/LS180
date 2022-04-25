@@ -1,0 +1,1 @@
+This is DML, since `UPDATE` modifies specific rows of data in a database.  

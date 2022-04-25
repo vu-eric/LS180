@@ -1,0 +1,1 @@
+Since `SELECT` is reading data, it's a part of DML.

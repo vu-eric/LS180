@@ -1,0 +1,1 @@
+This is DML, since `INSERT` is inserting data into a table. Thus, we are manipulating the data itself and not the data structure/definition. 

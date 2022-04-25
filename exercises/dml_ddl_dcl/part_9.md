@@ -1,0 +1,1 @@
+This uses DDL, since `DROP DATABASE` is removing a database, so we're removing structures of data and not data itself. 

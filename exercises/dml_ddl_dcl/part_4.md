@@ -1,0 +1,1 @@
+This uses DDL, since `ALTER TABLE` is modifying the characteristics and attributes of a table. Here, we are using `DROP CONSTRAINT` to remove a constraint from the table. 
